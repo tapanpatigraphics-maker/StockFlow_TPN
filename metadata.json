@@ -1,0 +1,5 @@
+{
+  "name": "StockFlow_TPN",
+  "description": "A comprehensive inventory management system with AI-powered insights, Google Sheet-compatible CSV sync, and stock movement tracking.",
+  "requestFramePermissions": []
+}
